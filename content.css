@@ -1,0 +1,96 @@
+.story{
+    display: flex;
+    margin-top: 2rem;
+}
+i{
+    font-size: 22px;
+}
+.user-story{
+    margin-left: 12px;
+    text-align: center;
+}
+
+.avatar{
+    padding: 2px;
+    /* background-image: linear-gradient(orange, red); */
+    border-radius: 60px;
+}
+
+.user-story img{
+    width: 4rem;
+    border-radius: 50%;
+    margin-top: 1px;
+    border: 2px solid orangered;
+    
+}
+
+.post{
+    margin-top: 2rem;
+    margin-inline: 8rem;
+}
+
+.banner{
+    display: flex;
+}
+
+.username img{
+    border-radius: 50%;
+    width: 2.5rem;
+    height: 2.5rem;
+    border: 2px solid orangered;
+}
+
+.user-info{
+    margin-left: 1rem;
+    padding-top: 4px;
+}
+
+.time{
+    color: gray;
+}
+
+.photo img{
+    width: 30vw;
+    height: 60vh;
+    border-radius: 12px;
+    margin-top: 12px;
+    margin-bottom: 12px;
+}
+
+.react{
+    margin-top: 5px;
+    display: flex;
+}
+.lcs{
+    width: 28vw;
+}
+.lcs i{
+    width: 2rem;
+    height: 1rem;
+}
+
+.save{
+    width: 10%;
+}
+
+.captions{
+    margin-top: 1rem;
+}
+
+.captions label{
+    font-size: 15px;
+    font-weight: 700;
+}
+
+.captions span{
+    font-style: italic;
+    font-family: cursive;
+}
+
+hr{
+    width: 34vw;
+    margin-left: 6rem;
+    margin-top: 2rem;
+    color: gray;
+    background-color: 1px solid gray;
+}
